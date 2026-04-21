@@ -16,7 +16,7 @@ I’m building my portfolio to show the projects I created during my course.
 
  
 ![Colab Scatter Graph](Scatter-Graph-Colab.png)
-![Second test](https://github.com/MohamedaliAl-Hasiniani/Portfolio-Images/blob/main/Scatter-Graph-Colab.png)
+![Second test](https://github.com/MohamedaliAl-Hasiniani/Portfolio-Images/blob/main/Scatter-Graph-Colab.png?raw=true)
 
 ## Projects I have completed: 
 

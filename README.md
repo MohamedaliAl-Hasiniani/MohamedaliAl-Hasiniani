@@ -15,7 +15,7 @@ I’m building my portfolio to show the projects I created during my course.
 - Tableau / Power BI dashboards 
 
  
-![Colab Scatter Graph](Scatter-Graph-Colab.png)
+![Colab Scatter Graph](Scatter-Graph-Colab.png?raw=true)
 ![Second test](https://github.com/MohamedaliAl-Hasiniani/Portfolio-Images/blob/main/Scatter-Graph-Colab.png?raw=true)
 
 ## Projects I have completed: 
